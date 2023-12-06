@@ -11,3 +11,7 @@ Se agregaron 3 Finales posibles.
 Parche 0.3
 ============
 Se agrego la historia de la ruta dos del juego.
+
+Parche 0.3.5
+============
+Se arreglo el bug que no permitia jugar el juego.
