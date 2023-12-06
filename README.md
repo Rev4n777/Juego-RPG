@@ -18,3 +18,7 @@ Se agrego la historia de la ruta dos del juego.
 Parche 0.3.5
 ============
 Se arreglo el bug que no permitia jugar el juego.
+
+Parche 0.4
+============
+Version final del juego, con todos los finales y caminos terminados.!
