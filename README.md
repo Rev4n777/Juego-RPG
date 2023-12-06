@@ -1,3 +1,2 @@
-"# Juego-RPG" 
-"# Juego-RPG" 
-"# Juego-RPG" 
+---------------------------------
+Usarse en un Compilador C++
